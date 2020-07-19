@@ -1,0 +1,21 @@
+#AdeMara
+#Github:AdeMara01
+
+CARA INSTALL
+
+$pkg update && pkg upgrade
+
+$pkg install git && pkg install python2
+
+$git clone https://github.com/AdeMara01/Ade0908
+
+$pip2 install mechanize
+
+$pip2 install PTable
+
+$cd AdeMara
+
+$python2 brute.py
+
+
+Dah Gitu Doang
